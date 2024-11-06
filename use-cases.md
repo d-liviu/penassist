@@ -11,3 +11,7 @@ UC-2 : As a user I expect a report of all the findings to create a report that c
 
 UC-3 : As a developer I want to be able to add a module to the system.
 
+UC-4 : As a user I want to be able to use the tool interactivley to define a config files of my preferences
+
+UC-5 : As a user I want to use the default config file if no other config is references on the command line
+

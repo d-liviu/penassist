@@ -13,3 +13,4 @@
 1. Colaborate with others
 2. establish value to streamline pen testing recon
 3. Ease of use, has an example config file.
+4. Create formatted reports in both mark down and html.
